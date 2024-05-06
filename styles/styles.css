@@ -1,0 +1,359 @@
+body{
+	background:#CC0001;
+}
+#header-promote{
+	width:224px;
+	padding:0 8px 0 6px;
+	color:#333;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#header-promote h3{
+	width:100%;
+	height:17px;
+	margin-bottom:5px;
+	_margin-bottom:2px;
+}
+#header-promote a{
+color:#CC0001;
+}
+#header-promote.nbc-mod h4 a:link{
+	text-decoration:none;
+}
+#header-promote a img{
+	float:left;
+	border:1px solid #8e1420;
+	margin-right:8px;
+	width:80px;
+}
+#header-promote h4,#nbc-header #header-promote p{
+	line-height:1.1em;
+	float:left;
+	width:134px;
+	margin-bottom:0;
+}
+#header-promote p{
+	font-size:11px;
+}
+#nbc-content{
+	margin-bottom:0;
+}
+#container{
+	float:left;
+	width:971px;
+	background:#fff;
+	min-height:400px;
+	_height:400px;
+	/*padding:10px 0;*/
+}
+#container-inner{
+
+}
+#alpha{
+	float:left;
+	padding-left:15px;
+	width:648px;
+}
+#alpha-inner{
+
+}
+#header{
+
+}
+#header-inner{
+
+}
+#header-content{
+
+}
+#header-name{
+
+}
+#header-name a{
+	background:transparent url(../imgs/diabolical-header.gif) no-repeat left top;
+	border:1px solid #000000;
+	display:block;
+	height:248px;
+	margin-bottom:15px;
+	text-indent:-9999em;
+	width:646px;
+}
+#header-description{
+
+}
+.entry-asset{
+
+}
+.asset{
+margin-bottom:15px;
+}
+.hentry{
+
+}
+.times-roman{
+font-family:times New Roman;
+font-size:32px;
+margin-bottom:20px;
+text-align:center;
+}
+.times-roman span{
+font-size:40px;
+font-style:italic;
+font-weight:bold;
+}
+.asset-header{
+	padding:0 10px;
+}
+.entry-title,.entry-title a{
+	color:#CC0001;
+	font-size:20px;
+	margin-bottom:10px;
+}
+.entry-title a{
+}
+.asset-meta{
+
+}
+.byline{
+	margin-bottom:10px;
+}
+.byline li{
+
+}
+.byline span{
+color:#CC0001;
+text-decoration:underline;
+}
+.asset-content{
+
+}
+.entry-content{
+
+}
+.asset-body{
+	padding:0 10px;
+}
+.asset-body p{
+	margin-bottom:10px;
+}
+.asset-body ul{
+	padding-left:15px;
+}
+.asset-body ul li{
+	list-style:disc;
+	margin-bottom:10px;
+}
+.asset-footer{
+	background:#CCCCCC;
+	padding:8px 10px;
+	text-align:right;
+}
+.link-share-comment li{
+	display:inline;
+}
+.link-share-comment a{
+	text-decoration:none;
+	padding:3px 0 3px 28px;
+	background-image: url(../imgs/share-icons.gif);	
+	background-repeat:no-repeat;
+	height:18px;
+	color:#000;
+}
+.nbc-link-share a:visited{
+	text-decoration:none;
+}
+.nbc-link-post{
+	background-position:0 1px;
+}
+.comment-nav li {
+	float:left;
+}
+.nbc-link-share{
+	background-position:3px -18px;
+}
+.nbc-link-comment{
+	background-position:2px -37px;
+}
+.comment-nav li{
+	float:left;
+}
+.commentContain{
+	padding-top:15px;
+}
+.tab-trigger{
+	display:block;
+	height:31px;
+	text-indent:-9999em;
+	background:url(/web/20131220083145im_/http://www.thediabolicalblog.com/images/comment-tabs.jpg) no-repeat left top;
+}
+#user_comm{
+	background-position: 0 0;
+	width:331px;
+}
+#user_comm.selected{
+	background-position: 0 -31px;
+}
+#user_post{
+	background-position:-331px -31px;
+	width:314px;
+}
+#user_post.selected{
+	background-position:-331px 0;
+}
+.comment_wrap{
+	background:#2B2B2B;
+	padding-top:15px;
+	width:645px;
+	color:#fff;
+}
+.sn_login_form_TABLE a{
+	color:#fff;
+}
+.sn_login_form_TABLE label,.sn_login_form_TABLE input{
+	padding-right:5px;
+}
+.sn_comment_div, .sn_comment_form_div{
+	padding:10px;
+}
+.sn_comment{
+	color:#333;
+	float:left;
+	width:605px;
+	background-color:#acabb0!important;
+}
+.sn_comment_even{
+	background-color:#cdd0d7!important;
+}
+.sn_comment_author_info cite{
+	color:#0060ff;
+}
+.sn_comment_form_div{
+	padding:15px;
+}
+.sn_comment_links{
+	text-align:left!important;
+}
+.sn_flag_link{
+	background:transparent url(../imgs/flag-red.gif) no-repeat left top;
+	display:block;
+	float:right;
+	height:26px;
+	text-indent:-9999em;
+	width:40px;
+}
+.sn_comment_pager_div{
+	padding:0 0 10px 10px;
+}
+.sn_comment_pager_div a{
+	background:#CDD0D7;
+	margin:2px;
+	padding:2px 4px;
+}
+.nbcu_pager_active{
+	background:#ACABB0!important;
+}
+.nbcu_pager_page{
+
+}
+.nbcu_pager_previous{
+
+}
+#sn_login_submit_btn{
+
+}
+.sn_comment_post_button{
+
+}
+.sn_comment_form_div legend{
+	text-transform:uppercase;
+	font-size:14px;
+}
+#beta{
+	float:left;
+	width:300px;
+	margin-left:5px;
+}
+#beta-inner{
+
+}
+.widget{
+	float:left;
+	width:300px;
+	padding:10px 0;
+}
+.widget-header{
+	border-bottom:1px solid #000000;
+	color:#CC0001;
+	font-size:18px;
+	font-style:italic;
+	text-transform:uppercase;
+	width:100%;
+}
+.widget-content{
+
+}
+.widget-content ul{
+	padding:10px 15px;
+}
+.widget-content li{
+	border-bottom:1px dotted #CCCCCC;
+	padding:3px 0;
+}
+.widget-content a{
+	color:#CC0001;
+}
+.challenge-me{
+	font-size:20px;
+	padding-top:150px;
+	text-align:center;
+}
+.challenge-me p{
+	margin-bottom:10px;
+}
+.challenge-me input{
+	font-size:30px;
+	height:40px;
+	padding:0 20px;
+	width:250px;
+}
+.challenge-me button{
+	background:#CCC;
+	border:medium none;
+	font-size:20px;
+	font-weight:bold;
+	height:40px;
+	margin-top:10px;
+	text-transform:uppercase;
+	width:100px;
+}
+#nbc-footer{
+	background:#f9f9f9;
+	padding:0 0 10px;
+}
+.footer-promote{
+	display:none;
+}
+.footer-baselinks{
+	padding-top:10px;
+}
+
+
+/*
+     FILE ARCHIVED ON 08:31:45 Dec 20, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:45:57 May 02, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.618
+  exclusion.robots: 0.071
+  exclusion.robots.policy: 0.062
+  cdx.remote: 0.061
+  esindex: 0.01
+  LoadShardBlock: 47.057 (3)
+  PetaboxLoader3.datanode: 50.233 (4)
+  load_resource: 79.047
+  PetaboxLoader3.resolve: 68.725
+*/
